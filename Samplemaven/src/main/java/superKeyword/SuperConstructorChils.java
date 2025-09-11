@@ -1,4 +1,4 @@
-package inheritance;
+package superKeyword;
 
 public class SuperConstructorChils extends SuperConstructorParemt {
 	public SuperConstructorChils() {
